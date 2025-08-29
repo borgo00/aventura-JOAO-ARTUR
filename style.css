@@ -1,3 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+
 body{
-    background-color: beige;
+    background-color: rgb(42, 161, 46);
+    font-family: Asimovian;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
 }
