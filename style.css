@@ -20,8 +20,10 @@ button {
 
 .passo{
     display: none;
-    display: block;
+    
 }
+.passo.ativo{
+    display:block;
 
  main{
      max-width: 90%;
